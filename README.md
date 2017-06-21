@@ -1,2 +1,2 @@
-# Swagger-Ramel
-Repository Contains Swagger and Ramel files.
+# Swagger-Raml
+Repository Contains Swagger and Raml files.
